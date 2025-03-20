@@ -46,8 +46,7 @@
 ## 🛠️ Instalación y Configuración
 
 ### **Requisitos Previos**
-- Node.js 18+
-- MongoDB (Local o en la nube)
+
 
 ### **Pasos de Instalación**
 1. **Clonar el repositorio**
@@ -55,9 +54,13 @@
    git clone https://github.com/tuusuario/EduVerse.git
    cd EduVerse
 2. **BackEnd**
+
+
 cd backend
 npm install
 npm run dev
+
+
 3. **Levantar FrontEnd**
 cd frontend
 npm install
